@@ -4,7 +4,7 @@ tags: []
 documentationDraft: true
 ---
 
-The Conditional Activities API allowsyou to specify whether to hide, or show, an activity when a series of conditions associated with it are met.
+The Conditional Activities API allows you to specify whether to hide, or show, an activity when a series of conditions associated with it are met.
 
 :::note
 
